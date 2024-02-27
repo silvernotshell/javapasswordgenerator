@@ -1,9 +1,12 @@
 # Password Generator Starter Code
-Description: A password generator created in JavaScript which randomly produces secure passwords that adhere to the criteria set by the user. 
+# Description: 
+A password generator created in JavaScript which randomly produces secure passwords that adhere to the criteria set by the user. 
 
-User Story: As an employee with access to sensitive data, I want to randomly generate a password that meets certain criteria so that I can create a strong password that provides greater security. 
+# User Story: 
+As an employee with access to sensitive data, I want to randomly generate a password that meets certain criteria so that I can create a strong password that provides greater security. 
 
-Acceptance Criteria: Given I need a new, secure password... 
+# Acceptance Criteria: 
+Given I need a new, secure password... 
 
 When I click the button to generate a password, then I am presented with a series of prompts for password criteria
 
@@ -19,7 +22,8 @@ When all prompts are answered, then a password is generated that matches the sel
 
 When the password is generated, then the password is either displayed in an alert or written to the page
 
-Screenshot: ![screenshot of deployed application](<images /Screenshot 2024-02-26 at 6.56.56 PM.png>)
+# Screenshot: 
+![screenshot of deployed application](<images /Screenshot 2024-02-26 at 6.56.56 PM.png>)
 
 
-Link: 
+# Link: 
